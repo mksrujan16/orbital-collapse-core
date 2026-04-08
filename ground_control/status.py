@@ -1,2 +1,2 @@
 def system_health():
-    return "OK"
+    return "ok"
